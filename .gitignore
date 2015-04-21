@@ -1,0 +1,22 @@
+## generic files to ignore
+*~
+*.DS_Store
+*.swp
+*.out
+# java specific
+*.class
+# project specific
+*.inf
+#*.conf
+*.qs
+*.o
+*.e
+debug/*.txt
+results/*.txt
+results.old/*.txt
+setup/*
+conf/*.conf
+conf.old/*
+todo/*
+todo_2/*
+*.sh
